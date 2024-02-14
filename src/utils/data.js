@@ -45,16 +45,50 @@ export const SKILLS = [
 
 export const WORK_EXPERIENCE = [
     {
-        title:"Frontend Developer",
-        date:"January 2022 - Present",
-        responsibilities:[
+        title: "Frontend Developer",
+        date: "January 2022 - Present",
+        responsibilities: [
             "Developed and maintained web applications using React.js, HTML, CSS, and JavaScript.",
             "Collaborated with cross-functional teams to design, develop, and deploy web applications.",
             "Implemented responsive design and user-friendly interfaces for web applications.",
-
+            "Created and maintained web applications using React.js, HTML, CSS, and JavaScript.",
         ],
     },
-]
+    {
+        title: "Frontend Developer",
+        date: "January 2022 - Present",
+        responsibilities: [
+            "Developed and maintained web applications using React.js, HTML, CSS, and JavaScript.",
+            "Collaborated with cross-functional teams to design, develop, and deploy web applications.",
+            "Implemented responsive design and user-friendly interfaces for web applications.",
+            "Created and maintained web applications using React.js, HTML, CSS, and JavaScript.",
+        ],
+    },
+    {
+        title: "Frontend Developer",
+        date: "January 2022 - Present",
+        responsibilities: [
+            "Developed and maintained web applications using React.js, HTML, CSS, and JavaScript.",
+            "Collaborated with cross-functional teams to design, develop, and deploy web applications.",
+            "Implemented responsive design and user-friendly interfaces for web applications.",
+            "Created and maintained web applications using React.js, HTML, CSS, and JavaScript.",
+        ],
+    },
+];
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //     {
 //         title: "HTML",
 //         iconUrl: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
