@@ -1,7 +1,7 @@
 export const SKILLS = [
     {
         title: "Frontend",
-        icon: "./frontend.png",
+        icon: "./website.png",
         skills: [
             { skill: "HTML5", percentage: "80%" },
             { skill: "CSS3", percentage: "90%" },
@@ -14,7 +14,7 @@ export const SKILLS = [
         icon: "./backend2.png",
         skills: [
             { skill: "Java", percentage: "80%" },
-            { skill: "Spring", percentage: "80%" },
+            { skill: "Spring Boot", percentage: "80%" },
             { skill: "Git", percentage: "80%" },
             { skill: "GitHub", percentage: "80%" }
         ],
@@ -32,7 +32,7 @@ export const SKILLS = [
     },
     {
         title: "Soft Skills",
-        icon: "./skills.png",
+        icon: "./skill.png",
         skills: [
             { skill: "Communication", percentage: "80%" },
             { skill: "Teamwork", percentage: "80%" },
@@ -41,6 +41,19 @@ export const SKILLS = [
 
         ]
     }
+];
+
+export const WORK_EXPERIENCE = [
+    {
+        title:"Frontend Developer",
+        date:"January 2022 - Present",
+        responsibilities:[
+            "Developed and maintained web applications using React.js, HTML, CSS, and JavaScript.",
+            "Collaborated with cross-functional teams to design, develop, and deploy web applications.",
+            "Implemented responsive design and user-friendly interfaces for web applications.",
+
+        ],
+    },
 ]
 //     {
 //         title: "HTML",
