@@ -35,7 +35,7 @@ function WorkExperience() {
     }
 
     return (
-        <section className='experience-container'>
+        <section className='experience-container' id='experience'>
 
             <h5>Work Experience</h5>
             <div className='experience-content'>

@@ -11,7 +11,7 @@ import './Hero.css';
 
 const Hero = () => {
     return (
-        <section className='hero-container'>
+        <section className='hero-container' id='home'>
             <div className='hero-content'>
                 <h2>Hi, I'm DevÖzgür</h2>
                 <p>I'm a Jr. Fullstack Developer</p>
